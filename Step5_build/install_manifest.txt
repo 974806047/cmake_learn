@@ -1,0 +1,5 @@
+C:/Program Files (x86)/Tutorial/lib/libMathFunctions.a
+C:/Program Files (x86)/Tutorial/lib/libSqrtLibrary.a
+C:/Program Files (x86)/Tutorial/include/MathFunctions.h
+C:/Program Files (x86)/Tutorial/bin/Tutorial.exe
+C:/Program Files (x86)/Tutorial/include/TutorialConfig.h

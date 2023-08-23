@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "E:/workbench/cmakelearn/cmake-3.27.3-tutorial-source/Step1",
+    "files.associations": {
+        "*.in": "cpp",
+        "ostream": "cpp"
+    }
+}
